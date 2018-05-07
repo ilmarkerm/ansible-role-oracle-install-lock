@@ -1,0 +1,4 @@
+# Task also uses variables oracle_rac and oracle_rac_master_host that should be defined with cluster group_vars
+
+oracle_install_lock_granted: no
+
