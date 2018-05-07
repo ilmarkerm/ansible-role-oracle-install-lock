@@ -1,4 +1,4 @@
-Role Name
+oracle-install-lock
 =========
 
 Role to determine if current host is the master in RAC cluster and could perform the initial software install.
